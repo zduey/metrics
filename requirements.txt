@@ -2,4 +2,6 @@ pandas
 sklearn
 numpy
 seaborn
+scipy
 jupyter
+statsmodels
