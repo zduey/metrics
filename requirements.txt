@@ -4,4 +4,4 @@ numpy
 seaborn
 scipy
 jupyter
-statsmodels
+statsmodels==0.10.0rc2
